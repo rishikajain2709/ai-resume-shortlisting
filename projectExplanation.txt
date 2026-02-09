@@ -1,0 +1,6 @@
+Set up git
+gitkeep-empty folder
+gitignore- for not pushing files on github
+github pe 3 branch bnai main , r and u
+r-> main main->pull u
+api key setup grok ai use -> generated api key (console.ai) (https://console.groq.com/home)
