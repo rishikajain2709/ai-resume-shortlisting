@@ -1,0 +1,189 @@
+{
+  "schema_version": "v1",
+  "llm_model": "llama-3.1-8b-instant",
+  "resumes": [
+    {
+      "name": "Ankit Bhardwaj",
+      "total_experience_years": 0.0,
+      "skills": [
+        "Windows 10/11",
+        "Amazon Linux (EC2)",
+        "Client/Server",
+        "Cloud-based Data Processing (AWS)",
+        "Distributed Computing (Apache Spark, Apache Kafka)",
+        "Big Data Analytics",
+        "Business Intelligence (Amazon QuickSight)",
+        "Hive",
+        "Amazon Athena",
+        "AWS Glue Data Catalog",
+        "MySQL",
+        "Amazon S3 (as data lake storage)",
+        "AWS Management Console",
+        "Jupyter Notebook",
+        "Python",
+        "Scala",
+        "SQL (HiveQL, Athena SQL)",
+        "Git/GitHub",
+        "Data Cleaning & Transformation (Pandas, PySpark)",
+        "ETL Development",
+        "Data Visualization (QuickSight, Matplotlib, Seaborn)",
+        "Data Warehousing (Partitioning, Bucketing)",
+        "Real-time Data Streaming (Kafka)",
+        "Cloud Services (AWS EC2, S3, Glue, Athena, IAM)",
+        "Workflow Orchestration (Apache Airflow)",
+        "Big Data Processing (Spark Core, Spark SQL)",
+        "Performance Optimization",
+        "Agile/Scrum Methodologies"
+      ],
+      "education": [
+        "Shri Ramdeobaba College of Engineering and Management, Nagpur, Maharashtra, India, Bachelor of Technology in Computer Science, 2025"
+      ],
+      "recent_roles": [],
+      "summary": "Data Engineer with expertise in big data processing, real-time pipelines, and cloud-based analytics.",
+      "_status": "ok",
+      "_hash": "999cb12605a4fd830de9e02655089952f84eaa2b044cf8e737d503f8c7363d07",
+      "_file": "Ankit Bhardwaj(30080268)_CV[1] (1).pdf",
+      "_ingested_at": "2026-02-09T10:20:02.880536Z"
+    },
+    {
+      "name": "Software Engineer",
+      "total_experience_years": 1.0,
+      "skills": [
+        "Big Data technologies",
+        "Hadoop",
+        "PySpark",
+        "AWS services",
+        "data processing",
+        "distributed computing",
+        "front-end development",
+        "React",
+        "Java",
+        "SQL",
+        "data structures"
+      ],
+      "education": [
+        "Lakshmi Narain College of Technology and Science",
+        "Bhopal",
+        "Madhya Pradesh",
+        "2021-2025"
+      ],
+      "recent_roles": [
+        {
+          "title": "Team Lead - Big Data Engineer",
+          "company": "Capgemini",
+          "start": "Jun 2025",
+          "end": "Aug 2025"
+        }
+      ],
+      "summary": "Enthusiastic and results-driven Software Engineer with a strong foundation in Big Data technologies, gained through intensive training at Capgemini.",
+      "_status": "ok",
+      "_hash": "482a5e8d902e5fd29c8e26262c010db20ab6c2da4e2162e0dd897f387b70958e",
+      "_file": "RISHIKA_RESUME_CEPGEMINI.docx",
+      "_ingested_at": "2026-02-09T10:20:03.853703Z"
+    },
+    {
+      "name": "Bharat Bhraman",
+      "total_experience_years": 0.0,
+      "skills": [
+        "DSA",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "REACT-JS & NODE-JS",
+        "JAVA",
+        "C",
+        "MYSQL(RELATIONAL DATABASE)"
+      ],
+      "education": [
+        "BHARAT MATA CONVENT SENIOR SECONDARY SCHOOL",
+        "TT JAIN HIGHER SECONDARY SCHOOL",
+        "LAKSHMI NARAIN COLLEGE OF TECHNOLOGY & SCIENCE"
+      ],
+      "recent_roles": [],
+      "summary": "A.I. Trip Planner Developed an AI Trip Planner with Python (Flask) backend, integrating APIs for real-time flight, train, and hotel data. Leveraged Generative AI for personalized destination recommendations and implemented dynamic content management for adaptable travel plans.",
+      "_status": "ok",
+      "_hash": "44e30cbaafa2c84ec0ef4f6a2f1fdb312df77ee7b6e10f7b241b48c1bf1bc851",
+      "_file": "RISHIKA_RESUME_UPDATED.pdf",
+      "_ingested_at": "2026-02-09T10:20:04.972612Z"
+    },
+    {
+      "name": "Siddharth Jain",
+      "total_experience_years": 0.0,
+      "skills": [
+        "Java",
+        "SQL",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Node.js",
+        "Express.js",
+        "MySQL",
+        "VS Code",
+        "IntelliJ IDEA",
+        "Data Structures & Algorithm",
+        "OOPM",
+        "Database Management System",
+        "Problem Solving",
+        "Communication skills",
+        "Teamwork"
+      ],
+      "education": [
+        "B.Tech. in Information Technology, Lakshmi Narain College of Technology, Bhopal, 2021–2025",
+        "Higher Secondary (12th), B.M.C. Senior Secondary School",
+        "Senior Secondary (10th), B.M.C. Senior Secondary School"
+      ],
+      "recent_roles": [],
+      "summary": "Detail-oriented and ambitious engineering student with a passion of working for an organization where I can apply academic knowledge, enhance skills and contribute to innovative projects within a dynamic team environment.",
+      "_status": "ok",
+      "_hash": "06166a2978e88aed97128a72a72e212809f99336db549fdf79a4b38708f31595",
+      "_file": "Siddharth Jain Resume.pdf",
+      "_ingested_at": "2026-02-09T10:20:06.073471Z"
+    },
+    {
+      "name": "Data Engineer",
+      "total_experience_years": 0.0,
+      "skills": [
+        "big data processing",
+        "real-time pipelines",
+        "cloud-based analytics",
+        "data processing",
+        "distributed computing",
+        "Java",
+        "SQL",
+        "Hadoop",
+        "PySpark",
+        "AWS services",
+        "Pandas",
+        "Spark SQL",
+        "Scala",
+        "Hive QL",
+        "DataFrames",
+        "Apache Mahout",
+        "Cloudera",
+        "Jupyter",
+        "Google Colab",
+        "Databricks",
+        "Tableau",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Flask",
+        "REST APIs",
+        "Generative AI",
+        "Responsive Design"
+      ],
+      "education": [
+        "Lakshmi Narain College of Technology and Science",
+        "Bhopal",
+        "Madhya Pradesh",
+        "2021-2025"
+      ],
+      "recent_roles": [],
+      "summary": "Data Engineer with expertise in big data processing, real-time pipelines, and cloud-based analytics.",
+      "_status": "ok",
+      "_hash": "6113a8839e0b06579247155eb69d67c515f695e99eb2b06185bbc1bff43682b2",
+      "_file": "SIDDHARTH_RESUME_CAPGEMINI.docx",
+      "_ingested_at": "2026-02-09T10:20:06.928261Z"
+    }
+  ]
+}

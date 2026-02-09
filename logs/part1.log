@@ -1,0 +1,118 @@
+2026-02-09 13:29:39,855 [INFO] Groq call for: Ankit Bhardwaj(30080268)_CV[1] (1).pdf
+2026-02-09 13:29:45,144 [INFO] Retrying request to /openai/v1/chat/completions in 0.483636 seconds
+2026-02-09 13:29:50,656 [INFO] Retrying request to /openai/v1/chat/completions in 0.774873 seconds
+2026-02-09 13:29:56,464 [ERROR] Groq extract failed: Request timed out.
+2026-02-09 13:29:56,478 [INFO] Processed Ankit Bhardwaj(30080268)_CV[1] (1).pdf in 16.68s | cache_hit=False | status=failed
+2026-02-09 13:29:56,493 [INFO] Groq call for: RISHIKA_RESUME_CEPGEMINI.docx
+2026-02-09 13:30:01,516 [INFO] Retrying request to /openai/v1/chat/completions in 0.405608 seconds
+2026-02-09 13:30:06,940 [INFO] Retrying request to /openai/v1/chat/completions in 0.934587 seconds
+2026-02-09 13:30:12,879 [ERROR] Groq extract failed: Request timed out.
+2026-02-09 13:30:12,886 [INFO] Processed RISHIKA_RESUME_CEPGEMINI.docx in 16.41s | cache_hit=False | status=failed
+2026-02-09 13:30:12,948 [INFO] Groq call for: RISHIKA_RESUME_UPDATED.pdf
+2026-02-09 13:30:13,034 [INFO] Retrying request to /openai/v1/chat/completions in 0.422474 seconds
+2026-02-09 13:30:13,514 [INFO] Retrying request to /openai/v1/chat/completions in 0.965955 seconds
+2026-02-09 13:30:14,566 [ERROR] Groq extract failed: Connection error.
+2026-02-09 13:30:14,571 [INFO] Processed RISHIKA_RESUME_UPDATED.pdf in 1.68s | cache_hit=False | status=failed
+2026-02-09 13:30:14,684 [INFO] Groq call for: Siddharth Jain Resume.pdf
+2026-02-09 13:30:14,745 [INFO] Retrying request to /openai/v1/chat/completions in 0.472608 seconds
+2026-02-09 13:30:15,270 [INFO] Retrying request to /openai/v1/chat/completions in 0.871169 seconds
+2026-02-09 13:30:16,429 [ERROR] Groq extract failed: Connection error.
+2026-02-09 13:30:16,442 [INFO] Processed Siddharth Jain Resume.pdf in 1.87s | cache_hit=False | status=failed
+2026-02-09 13:30:16,455 [INFO] Groq call for: SIDDHARTH_RESUME_CAPGEMINI.docx
+2026-02-09 13:30:16,559 [INFO] Retrying request to /openai/v1/chat/completions in 0.463320 seconds
+2026-02-09 13:30:17,161 [INFO] Retrying request to /openai/v1/chat/completions in 0.942526 seconds
+2026-02-09 13:30:18,215 [ERROR] Groq extract failed: Connection error.
+2026-02-09 13:30:18,220 [INFO] Processed SIDDHARTH_RESUME_CAPGEMINI.docx in 1.78s | cache_hit=False | status=failed
+2026-02-09 13:34:15,623 [INFO] Cache hit: Ankit Bhardwaj(30080268)_CV[1] (1).pdf
+2026-02-09 13:34:15,624 [INFO] Processed Ankit Bhardwaj(30080268)_CV[1] (1).pdf in 0.05s | cache_hit=True | status=failed
+2026-02-09 13:34:15,637 [INFO] Cache hit: RISHIKA_RESUME_CEPGEMINI.docx
+2026-02-09 13:34:15,638 [INFO] Processed RISHIKA_RESUME_CEPGEMINI.docx in 0.01s | cache_hit=True | status=failed
+2026-02-09 13:34:15,697 [INFO] Cache hit: RISHIKA_RESUME_UPDATED.pdf
+2026-02-09 13:34:15,698 [INFO] Processed RISHIKA_RESUME_UPDATED.pdf in 0.06s | cache_hit=True | status=failed
+2026-02-09 13:34:15,750 [INFO] Cache hit: Siddharth Jain Resume.pdf
+2026-02-09 13:34:15,750 [INFO] Processed Siddharth Jain Resume.pdf in 0.05s | cache_hit=True | status=failed
+2026-02-09 13:34:15,760 [INFO] Cache hit: SIDDHARTH_RESUME_CAPGEMINI.docx
+2026-02-09 13:34:15,761 [INFO] Processed SIDDHARTH_RESUME_CAPGEMINI.docx in 0.01s | cache_hit=True | status=failed
+2026-02-09 13:38:05,596 [INFO] Cache hit: Ankit Bhardwaj(30080268)_CV[1] (1).pdf
+2026-02-09 13:38:05,596 [INFO] Processed Ankit Bhardwaj(30080268)_CV[1] (1).pdf in 0.05s | cache_hit=True | status=failed
+2026-02-09 13:38:06,413 [INFO] Cache hit: RISHIKA_RESUME_CEPGEMINI.docx
+2026-02-09 13:38:06,413 [INFO] Processed RISHIKA_RESUME_CEPGEMINI.docx in 0.02s | cache_hit=True | status=failed
+2026-02-09 13:38:07,272 [INFO] Cache hit: RISHIKA_RESUME_UPDATED.pdf
+2026-02-09 13:38:07,272 [INFO] Processed RISHIKA_RESUME_UPDATED.pdf in 0.06s | cache_hit=True | status=failed
+2026-02-09 13:38:08,202 [INFO] Cache hit: Siddharth Jain Resume.pdf
+2026-02-09 13:38:08,202 [INFO] Processed Siddharth Jain Resume.pdf in 0.13s | cache_hit=True | status=failed
+2026-02-09 13:38:09,020 [INFO] Cache hit: SIDDHARTH_RESUME_CAPGEMINI.docx
+2026-02-09 13:38:09,020 [INFO] Processed SIDDHARTH_RESUME_CAPGEMINI.docx in 0.02s | cache_hit=True | status=failed
+2026-02-09 13:38:24,284 [INFO] Cache hit: Ankit Bhardwaj(30080268)_CV[1] (1).pdf
+2026-02-09 13:38:24,284 [INFO] Processed Ankit Bhardwaj(30080268)_CV[1] (1).pdf in 0.05s | cache_hit=True | status=failed
+2026-02-09 13:38:25,098 [INFO] Cache hit: RISHIKA_RESUME_CEPGEMINI.docx
+2026-02-09 13:38:25,098 [INFO] Processed RISHIKA_RESUME_CEPGEMINI.docx in 0.01s | cache_hit=True | status=failed
+2026-02-09 13:38:25,963 [INFO] Cache hit: RISHIKA_RESUME_UPDATED.pdf
+2026-02-09 13:38:25,963 [INFO] Processed RISHIKA_RESUME_UPDATED.pdf in 0.06s | cache_hit=True | status=failed
+2026-02-09 13:38:26,817 [INFO] Cache hit: Siddharth Jain Resume.pdf
+2026-02-09 13:38:26,818 [INFO] Processed Siddharth Jain Resume.pdf in 0.05s | cache_hit=True | status=failed
+2026-02-09 13:38:27,630 [INFO] Cache hit: SIDDHARTH_RESUME_CAPGEMINI.docx
+2026-02-09 13:38:27,631 [INFO] Processed SIDDHARTH_RESUME_CAPGEMINI.docx in 0.01s | cache_hit=True | status=failed
+2026-02-09 13:45:13,033 [INFO] Groq call for: Ankit Bhardwaj(30080268)_CV[1] (1).pdf
+2026-02-09 13:45:13,343 [INFO] Retrying request to /openai/v1/chat/completions in 0.401760 seconds
+2026-02-09 13:45:13,826 [INFO] Retrying request to /openai/v1/chat/completions in 0.979285 seconds
+2026-02-09 13:45:14,888 [ERROR] Groq extract failed: Connection error.
+2026-02-09 13:45:17,096 [INFO] Retrying request to /openai/v1/chat/completions in 0.455847 seconds
+2026-02-09 13:45:17,630 [INFO] Retrying request to /openai/v1/chat/completions in 0.904743 seconds
+2026-02-09 13:45:18,647 [ERROR] Groq extract failed: Connection error.
+2026-02-09 13:45:21,090 [INFO] Retrying request to /openai/v1/chat/completions in 0.495953 seconds
+2026-02-09 13:45:21,642 [INFO] Retrying request to /openai/v1/chat/completions in 0.793464 seconds
+2026-02-09 13:45:22,502 [ERROR] Groq extract failed: Connection error.
+2026-02-09 13:45:26,567 [INFO] Retrying request to /openai/v1/chat/completions in 0.378232 seconds
+2026-02-09 13:45:27,004 [INFO] Retrying request to /openai/v1/chat/completions in 0.904207 seconds
+2026-02-09 13:45:27,961 [ERROR] Groq extract failed: Connection error.
+2026-02-09 13:45:36,597 [INFO] Retrying request to /openai/v1/chat/completions in 0.404215 seconds
+2026-02-09 13:45:37,059 [INFO] Retrying request to /openai/v1/chat/completions in 0.789547 seconds
+2026-02-09 13:45:37,932 [ERROR] Groq extract failed: Connection error.
+2026-02-09 13:45:54,373 [INFO] Retrying request to /openai/v1/chat/completions in 0.468639 seconds
+2026-02-09 13:45:54,902 [INFO] Retrying request to /openai/v1/chat/completions in 0.906987 seconds
+2026-02-09 13:45:55,865 [ERROR] Groq extract failed: Connection error.
+2026-02-09 13:46:36,557 [INFO] HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-09 13:46:36,590 [INFO] Processed Ankit Bhardwaj(30080268)_CV[1] (1).pdf in 83.61s | cache_hit=False | status=ok
+2026-02-09 13:46:37,426 [INFO] Groq call for: RISHIKA_RESUME_CEPGEMINI.docx
+2026-02-09 13:46:37,899 [INFO] HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-09 13:46:37,906 [INFO] Processed RISHIKA_RESUME_CEPGEMINI.docx in 0.52s | cache_hit=False | status=ok
+2026-02-09 13:46:38,788 [INFO] Groq call for: RISHIKA_RESUME_UPDATED.pdf
+2026-02-09 13:46:39,098 [INFO] HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-09 13:46:39,109 [INFO] Processed RISHIKA_RESUME_UPDATED.pdf in 0.40s | cache_hit=False | status=ok
+2026-02-09 13:46:40,013 [INFO] Groq call for: Siddharth Jain Resume.pdf
+2026-02-09 13:46:40,347 [INFO] HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-09 13:46:40,359 [INFO] Processed Siddharth Jain Resume.pdf in 0.45s | cache_hit=False | status=ok
+2026-02-09 13:46:41,183 [INFO] Groq call for: SIDDHARTH_RESUME_CAPGEMINI.docx
+2026-02-09 13:46:41,624 [INFO] HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2026-02-09 13:46:41,637 [INFO] Processed SIDDHARTH_RESUME_CAPGEMINI.docx in 0.48s | cache_hit=False | status=ok
+2026-02-09 15:26:47,547 [INFO] Cache hit: Ankit Bhardwaj(30080268)_CV[1] (1).pdf
+2026-02-09 15:26:47,553 [INFO] Processed Ankit Bhardwaj(30080268)_CV[1] (1).pdf in 0.13s | cache_hit=True | status=ok
+2026-02-09 15:26:48,398 [INFO] Cache hit: RISHIKA_RESUME_CEPGEMINI.docx
+2026-02-09 15:26:48,399 [INFO] Processed RISHIKA_RESUME_CEPGEMINI.docx in 0.04s | cache_hit=True | status=ok
+2026-02-09 15:26:49,351 [INFO] Cache hit: RISHIKA_RESUME_UPDATED.pdf
+2026-02-09 15:26:49,352 [INFO] Processed RISHIKA_RESUME_UPDATED.pdf in 0.15s | cache_hit=True | status=ok
+2026-02-09 15:26:50,281 [INFO] Cache hit: Siddharth Jain Resume.pdf
+2026-02-09 15:26:50,282 [INFO] Processed Siddharth Jain Resume.pdf in 0.13s | cache_hit=True | status=ok
+2026-02-09 15:26:51,122 [INFO] Cache hit: SIDDHARTH_RESUME_CAPGEMINI.docx
+2026-02-09 15:26:51,123 [INFO] Processed SIDDHARTH_RESUME_CAPGEMINI.docx in 0.04s | cache_hit=True | status=ok
+2026-02-09 15:48:38,708 [INFO] Cache hit: Ankit Bhardwaj(30080268)_CV[1] (1).pdf
+2026-02-09 15:48:38,714 [INFO] Processed Ankit Bhardwaj(30080268)_CV[1] (1).pdf in 0.13s | cache_hit=True | status=ok
+2026-02-09 15:48:39,563 [INFO] Cache hit: RISHIKA_RESUME_CEPGEMINI.docx
+2026-02-09 15:48:39,565 [INFO] Processed RISHIKA_RESUME_CEPGEMINI.docx in 0.05s | cache_hit=True | status=ok
+2026-02-09 15:48:40,535 [INFO] Cache hit: RISHIKA_RESUME_UPDATED.pdf
+2026-02-09 15:48:40,536 [INFO] Processed RISHIKA_RESUME_UPDATED.pdf in 0.17s | cache_hit=True | status=ok
+2026-02-09 15:48:41,479 [INFO] Cache hit: Siddharth Jain Resume.pdf
+2026-02-09 15:48:41,480 [INFO] Processed Siddharth Jain Resume.pdf in 0.14s | cache_hit=True | status=ok
+2026-02-09 15:48:42,322 [INFO] Cache hit: SIDDHARTH_RESUME_CAPGEMINI.docx
+2026-02-09 15:48:42,323 [INFO] Processed SIDDHARTH_RESUME_CAPGEMINI.docx in 0.04s | cache_hit=True | status=ok
+2026-02-09 15:50:02,865 [INFO] Cache hit: Ankit Bhardwaj(30080268)_CV[1] (1).pdf
+2026-02-09 15:50:02,881 [INFO] Processed Ankit Bhardwaj(30080268)_CV[1] (1).pdf in 0.39s | cache_hit=True | status=ok
+2026-02-09 15:50:03,852 [INFO] Cache hit: RISHIKA_RESUME_CEPGEMINI.docx
+2026-02-09 15:50:03,853 [INFO] Processed RISHIKA_RESUME_CEPGEMINI.docx in 0.13s | cache_hit=True | status=ok
+2026-02-09 15:50:04,970 [INFO] Cache hit: RISHIKA_RESUME_UPDATED.pdf
+2026-02-09 15:50:04,972 [INFO] Processed RISHIKA_RESUME_UPDATED.pdf in 0.32s | cache_hit=True | status=ok
+2026-02-09 15:50:06,072 [INFO] Cache hit: Siddharth Jain Resume.pdf
+2026-02-09 15:50:06,073 [INFO] Processed Siddharth Jain Resume.pdf in 0.30s | cache_hit=True | status=ok
+2026-02-09 15:50:06,927 [INFO] Cache hit: SIDDHARTH_RESUME_CAPGEMINI.docx
+2026-02-09 15:50:06,928 [INFO] Processed SIDDHARTH_RESUME_CAPGEMINI.docx in 0.05s | cache_hit=True | status=ok
